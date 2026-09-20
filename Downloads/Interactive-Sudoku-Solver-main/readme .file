@@ -1,0 +1,25 @@
+# Interactive Sudoku Solver
+
+A user-friendly Sudoku game in Python with a graphical user interface, day/night theme toggle 🌙/☀️, region coloring, candidate hints, solution checking, and one-click solve/reset.
+
+---
+
+## Features
+
+- **Easy-to-use GUI:** Click any cell and enter numbers.
+- **Colorful Regions:** 3x3 subgrids are color-highlighted for clarity.
+- **Light/Dark Mode:** Instantly switch using the sun/moon button.
+- **Hints:** Select a cell and click 💡 to see candidate numbers.
+- **Check Solution:** "Check Solution" button verifies your board.
+- **Auto Solver:** "Solve Puzzle" completes the Sudoku automatically.
+- **Reset:** Start over at any time with the "Reset" button.
+
+---
+
+---
+
+## Demo Video
+
+https://drive.google.com/file/d/1QrhnQzOldlTvTUeUpF6S1O9-X4sUbZtv/view?usp=sharing
+
+---
